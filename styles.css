@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(205, 166, 234);
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    color: rgb(252, 253, 254);
+}
+
+
+.items {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+li {
+    padding: 7px;
+    color: rgb(86, 155, 214);
+    
+}
